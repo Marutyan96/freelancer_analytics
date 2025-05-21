@@ -1,5 +1,6 @@
 Freelancer Analytics
 
+Требования
 Python: 3.12 или выше
 Git: для клонирования репозитория
 
